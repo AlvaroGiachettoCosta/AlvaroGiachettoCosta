@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 👨‍💻 My Skills & Technologies (Still Studying)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://skillicons.dev)
 <!--
 **AlvaroGiachettoCosta/AlvaroGiachettoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
