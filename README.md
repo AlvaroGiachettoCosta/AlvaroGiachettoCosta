@@ -2,10 +2,10 @@
 
 ## 👨‍💻 My Skills & Technologies Full Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres)](https://skillicons.dev)
 
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,py,java)](https://skillicons.dev)
 <!--
 **AlvaroGiachettoCosta/AlvaroGiachettoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
