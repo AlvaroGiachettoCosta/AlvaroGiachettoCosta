@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres)](https://skillicons.dev)
 
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,py,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,py,java,php,mysql)](https://skillicons.dev)
 <!--
 **AlvaroGiachettoCosta/AlvaroGiachettoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
